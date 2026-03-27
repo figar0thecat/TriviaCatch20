@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3b19f14af5e6a34887344d1d9852b2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/FishMoving00.controller
+  uploadId: 597533

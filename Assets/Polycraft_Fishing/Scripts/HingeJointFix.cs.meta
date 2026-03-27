@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fd17989730fd4d3448aa5cba44adbf21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Scripts/HingeJointFix.cs
+  uploadId: 597533

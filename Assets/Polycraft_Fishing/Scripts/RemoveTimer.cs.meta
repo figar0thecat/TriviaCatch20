@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9ea1083774db3984192ea9521f84e31a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Scripts/RemoveTimer.cs
+  uploadId: 597533

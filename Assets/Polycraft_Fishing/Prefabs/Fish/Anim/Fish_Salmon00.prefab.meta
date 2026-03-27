@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ee54400a11bc1c49b644255dc35d981
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Fish/Anim/Fish_Salmon00.prefab
+  uploadId: 597533

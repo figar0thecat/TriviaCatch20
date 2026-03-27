@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e959a9acc0fa79f4ba429f41f702ed7b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Materials/DemoV2/WaterColor.mat
+  uploadId: 597533

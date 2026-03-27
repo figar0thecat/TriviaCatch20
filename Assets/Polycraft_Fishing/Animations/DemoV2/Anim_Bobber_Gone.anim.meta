@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 166a57e4a89951d4aaef2fec4fe6e0b2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/DemoV2/Anim_Bobber_Gone.anim
+  uploadId: 597533

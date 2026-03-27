@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71f26761ef881eb42b3026fb71853ab6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/DemoV2/Anim_Bobber_Idle.anim
+  uploadId: 597533

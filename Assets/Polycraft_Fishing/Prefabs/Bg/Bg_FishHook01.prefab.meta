@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bfde64bcf8ba12648ba3b47f33ab7369
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Bg/Bg_FishHook01.prefab
+  uploadId: 597533

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 711a083b1d9487643ae1799d92fc6064
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/FishingPole/Item_ReelFoot00R.prefab
+  uploadId: 597533

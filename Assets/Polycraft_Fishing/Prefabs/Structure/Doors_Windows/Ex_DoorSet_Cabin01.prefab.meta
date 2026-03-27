@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67605cee45a5c484b9fe0f26b1b05bc4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Structure/Doors_Windows/Ex_DoorSet_Cabin01.prefab
+  uploadId: 597533

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b39df43726a84e64d8472ec9f66e4072
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Demo/Eff_FishFlock00_Anim.prefab
+  uploadId: 597533

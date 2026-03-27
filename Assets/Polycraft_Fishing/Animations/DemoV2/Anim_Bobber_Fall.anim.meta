@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 31fc304c11effb346a62583cf8851d78
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/DemoV2/Anim_Bobber_Fall.anim
+  uploadId: 597533

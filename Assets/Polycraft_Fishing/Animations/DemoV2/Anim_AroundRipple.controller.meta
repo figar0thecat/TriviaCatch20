@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a373f3599421a454aa663d90d1f1deb6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/DemoV2/Anim_AroundRipple.controller
+  uploadId: 597533

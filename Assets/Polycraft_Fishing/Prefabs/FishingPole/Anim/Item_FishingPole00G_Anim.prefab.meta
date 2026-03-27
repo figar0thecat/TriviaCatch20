@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 01b5d7cbd7c3d5c4eb2e50b4231805e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/FishingPole/Anim/Item_FishingPole00G_Anim.prefab
+  uploadId: 597533

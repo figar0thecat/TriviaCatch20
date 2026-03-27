@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e178b40481aded1478c41b7dd1e30315
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/Demo/FishDummyTrack_Loop.anim
+  uploadId: 597533

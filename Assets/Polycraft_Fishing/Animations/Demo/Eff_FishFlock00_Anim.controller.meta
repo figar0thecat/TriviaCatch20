@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 133feaf4efa96f04b81e66336c4146cf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/Demo/Eff_FishFlock00_Anim.controller
+  uploadId: 597533

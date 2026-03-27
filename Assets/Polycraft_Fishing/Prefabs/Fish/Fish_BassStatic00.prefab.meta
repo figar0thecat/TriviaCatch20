@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4b3f789c39b58934e96730cfbdd92232
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Fish/Fish_BassStatic00.prefab
+  uploadId: 597533

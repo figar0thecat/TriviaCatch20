@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da84c609f41762549a23b643b3f7af05
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/Bg/Bg_Bobber01.prefab
+  uploadId: 597533

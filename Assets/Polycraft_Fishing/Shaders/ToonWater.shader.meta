@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3b00116845f627428db7e113826a115
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Shaders/ToonWater.shader
+  uploadId: 597533

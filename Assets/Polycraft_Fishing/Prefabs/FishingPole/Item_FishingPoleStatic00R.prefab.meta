@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 931e91e9ea72f2d48aceaeb6a28ffb6f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Prefabs/FishingPole/Item_FishingPoleStatic00R.prefab
+  uploadId: 597533

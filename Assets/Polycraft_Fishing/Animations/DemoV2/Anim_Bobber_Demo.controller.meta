@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eae452cce1ace654cbfc12f3aa583bc9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/DemoV2/Anim_Bobber_Demo.controller
+  uploadId: 597533

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e098c80ae0f7be94b8ea15ec00a6b821
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 197518
+  packageName: Polycraft - Fishing
+  packageVersion: 1.02
+  assetPath: Assets/Polycraft_Fishing/Animations/Demo/CamRotate.anim
+  uploadId: 597533
